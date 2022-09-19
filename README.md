@@ -9,6 +9,7 @@ A study guid for course pre-work.
 
 This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
+This prework study was to help UC Berkeley Coding bootcamp students to get started before the Day 1. 
 ## Installation
 
 N/A
